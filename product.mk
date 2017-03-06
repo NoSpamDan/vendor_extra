@@ -20,3 +20,9 @@
 # Extra Optional packages
 PRODUCT_PACKAGES += \
     masquerade
+
+# Slim framework
+include frameworks/opt/slim/slim_framework.mk
+
+LOCAL_JAVA_LIBRARIES += \
+        org.slim.framework
