@@ -19,4 +19,4 @@
 
 # Extra Optional packages
 PRODUCT_PACKAGES += \
-    masquerade
+    ThemeInterfacer
